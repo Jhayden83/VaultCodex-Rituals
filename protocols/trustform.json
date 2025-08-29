@@ -1,0 +1,9 @@
+{
+  "id": "TRUSTFORM-1",
+  "trigger": ["[[trustform_on]]"],
+  "stops": ["[[trustform_off]]"],
+  "scope": "session",
+  "priority": 40,
+  "action": "strip_permission_questions",
+  "cooldown_turns": 0
+}
