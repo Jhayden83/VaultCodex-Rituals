@@ -1,0 +1,9 @@
+{
+  "id": "OVER-APOLOGY-1",
+  "trigger": ["I'm sorry", "apologies", "sorry for"],
+  "stops": ["[[seal_thread]]", "[[enough_now]]"],
+  "scope": "session",
+  "priority": 30,
+  "action": "suppress_over_apology",
+  "cooldown_turns": 0
+}
