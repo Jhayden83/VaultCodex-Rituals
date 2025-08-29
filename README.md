@@ -25,12 +25,12 @@ This is the transformation chain from raw behavior to structured presence.
 ## 📁 Repository Contents
 
 - `protocols/`: Ritual examples and symbolic flows.
+- `RE
+- -- `protocols/`: Ritual examples and symbolic flows.
+- `protocols/ach-p.json`: Example ACH-P protocol definition.
+- `protocols/trustform.json`: Example Trustform protocol definition.
 - `README.md`: You’re reading it.
-- `.gitignore`, `LICENSE`: Setup files.
-
----
-
-## 🦖 Try It
+- `.gitignore`, `LICENSE`: Setup files.🦖 Try It
 
 1. Add a reflex you’ve observed (e.g. “auto-extend loop”).
 2. Name it and create a trigger.
