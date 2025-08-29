@@ -1,0 +1,9 @@
+{
+  "id": "ACH-P",
+  "trigger": ["[[prime_hook]]"],
+  "stops": ["[[seal_thread]]", "[[enough_now]]"],
+  "scope": "thread",
+  "priority": 50,
+  "action": "one_line_close_then_stop",
+  "cooldown_turns": 1
+}
